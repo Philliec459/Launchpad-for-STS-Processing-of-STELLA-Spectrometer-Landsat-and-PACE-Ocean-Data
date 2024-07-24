@@ -30,7 +30,7 @@ This too takes a while to load python libraries and data. It takes ~2 minutes to
 We have not tested this link and are not aware of any costs for the basic account.
 
 
-HOW TO RUN IN COLAB:
+**HOW TO RUN IN COLAB:**
 1) If you click on the Jupyter Notebook links that we have provided, you will see the following type of image while you are still in GitHub. Click on the banner **"Open in CoLab"** at the top, and this will open this notebook in Google CoLab. Look to the far upper right corner of the web page to make sure that you are logged into your google account. If not, then login before trying to run CoLab. 
 
 
