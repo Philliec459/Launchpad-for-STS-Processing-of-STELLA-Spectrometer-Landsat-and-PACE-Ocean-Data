@@ -21,6 +21,8 @@ This too takes a while to load python libraries and data. It takes ~2 minutes to
 
 [CoLab_STELLA_brief_ver2_brief_to_Ed_Chiles_ver2.ipynb](https://github.com/Philliec459/STS-STELLA-Spectrometer-Readings-on-Various-Plant-Species-with-NDVI/blob/main/CoLab_STELLA_brief_ver2_brief_to_Ed_Chiles_ver2.ipynb)
 
+
+## **ADDITIONAL RESOURCES:**
 **EARTH EXPLORER:** If you need to setup an Earth Explorer account to download PACE or Landsat data, then please click on the following link:
 
 [Earth Explorer login](https://ers.cr.usgs.gov/login?RET_ADDR=https%3A%2F%2Fearthexplorer.usgs.gov%2F)
