@@ -34,6 +34,7 @@ This too takes a while to load python libraries and data. It takes ~2 minutes to
 
 ## **ADDITIONAL RESOURCES:**
 **Understanding and Accessing Landsat Data:** Great video for an introduction to Landsat data.
+
 [Landsat Video](https://youtu.be/cRTPA1ART7g?si=3M-wvq0oyQTf1E8a)
 
 **EARTH EXPLORER:** If you need to setup an Earth Explorer account to download PACE or Landsat data, then please click on the following link:
