@@ -1,10 +1,12 @@
 ![Image](sts_nasa.png)
 
-# **NASA STELLA VIDEO ON THEIR STELLA SPECTROMETERS:**
+# **STELLA Videos:**
+
+**NASA STELLA VIDEO ON THEIR STELLA SPECTROMETERS:**
 
 [Video](https://youtu.be/QSF4F-YlcH4?si=3oZV0hKy_0xDA0NJ)
 
-# **NASA STELLA APPLICATIONS VIDEO:**
+**NASA STELLA APPLICATIONS VIDEO:**
 
 [Video](https://youtu.be/LcWqBePYx40?si=j_ZxgUGYjMyRDMdf)
 
