@@ -43,11 +43,15 @@ This too takes a while to load python libraries and data. It takes ~2 minutes to
 
 We have not tested this link and are not aware of any costs for the basic account.
 
-# **WorldView for Land and Ocean Data:**
+## **WorldView for Land and Ocean Data:**
 
 [WorldView for Land](https://worldview.earthdata.nasa.gov/?v=-84.27057327855906,26.66060096879559,-81.4117370877425,28.264287743469897&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Aqua_L3_NDVI_Monthly,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2024-06-22-T19%3A09%3A42Z)
 
 [WorldView for Ocean data using new PACE Satellite data](https://worldview.earthdata.nasa.gov/?v=-100.02484118515916,18.222836043347293,-72.71325685606926,33.5434853077787&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OCI_PACE_Chlorophyll_a,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2024-06-14-T14%3A54%3A38Z)
+
+## **Hyperspectral Plant Data:**
+
+[Hyperspectral Plant Data](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer/blob/main/HyperSpectral_NIReos.gif)
 
 ## **HOW TO RUN IN COLAB:**
 1) If you click on the Jupyter Notebook links that we have provided, you will see the following type of image while you are still in GitHub. Click on the banner **"Open in CoLab"** at the top, and this will open this notebook in Google CoLab. Look to the far upper right corner of the web page to make sure that you are logged into your google account. If not, then login before trying to run CoLab. 
