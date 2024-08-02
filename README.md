@@ -1,6 +1,6 @@
 ![Image](sts_nasa.png)
 
-# **STELLA Videos:**
+## **STELLA Videos:**
 
 **NASA STELLA VIDEO ON THEIR STELLA SPECTROMETERS:**
 
@@ -10,7 +10,7 @@
 
 [Video](https://youtu.be/LcWqBePYx40?si=j_ZxgUGYjMyRDMdf)
 
-# **STELLA, Landsat and PACE Ocean Data Jupyter Notebooks:**
+## **STELLA, Landsat and PACE Ocean Data Jupyter Notebooks:**
 We have 4 CoLab-ready Jupyter Notebooks in GitHub to process NASA STELLA, Landsat and PACE Ocean data. Just click on the hyperlinks below for each notebook example. 
 
 **STS EXAMPLE 1:** STELLA DATA SIMPLE APPLICATION:
