@@ -53,7 +53,9 @@ We have not tested this link and are not aware of any costs for the basic accoun
 
 [WorldView for Ocean data using new PACE Satellite data](https://worldview.earthdata.nasa.gov/?v=-100.02484118515916,18.222836043347293,-72.71325685606926,33.5434853077787&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OCI_PACE_Chlorophyll_a,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2024-06-14-T14%3A54%3A38Z)
 
-## **Hyperspectral Plant Data:**  Each pixel of the plant image have a continuous range of spectral data. This is called Hyperspectral data
+## **Hyperspectral Plant Data:** 
+Each pixel of the plant image has a continuous range of spectral data. This is called Hyperspectral data.
+
 [Hyperspectral Plant Data](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer/blob/main/HyperSpectral_NIReos.gif)
 
 ## **HOW TO RUN IN COLAB:**
