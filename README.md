@@ -58,7 +58,7 @@ Each pixel of the plant image has a continuous range of spectral data. This is c
 
 [Hyperspectral Plant Data](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer/blob/main/HyperSpectral_NIReos.gif)
 
-## **HOW TO RUN STS NOTEBOOKS IN COLAB:**
+## **HOW TO RUN STS JUPYTER NOTEBOOKS IN COLAB:**
 1) If you click on the Jupyter Notebook links that we have provided, you will see the following type of image while you are still in GitHub. Click on the banner **"Open in CoLab"** at the top, and this will open this notebook in Google CoLab. Look to the far upper right corner of the web page to make sure that you are logged into your google account. If not, then login before trying to run CoLab. 
 
 ![Image](GitHub_link.png)
