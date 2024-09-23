@@ -17,9 +17,9 @@ We have 4 CoLab-ready Jupyter Notebooks in GitHub to process NASA STELLA, Landsa
 
 [Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
 
-**STS EXAMPLE 2:** READ IN RAW STELLA DATA OR ANY DATA.CSV FILE WITH WHITE CARD READINGS FIRST - WHITE CARD CORRECT DATA:
+**STS EXAMPLE 2:** READ IN RAW STELLA DATA OR ANY DATA.CSV FILE WITH WHITE CARD READINGS FIRST, THEN WHITE CARD CORRECT DATA:
 
-[Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
+[Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input_white_card_correct.ipynb)
 
 **STS EXAMPLE 3:** STELLA DATA SIMPLE APPLICATION:
 
