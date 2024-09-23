@@ -13,20 +13,28 @@
 ## **STELLA, Landsat and PACE Ocean Data Jupyter Notebooks:**
 We have 4 CoLab-ready Jupyter Notebooks in GitHub to process NASA STELLA, Landsat and PACE Ocean data. Just click on the hyperlinks below for each notebook example. 
 
-**STS EXAMPLE 1:** STELLA DATA SIMPLE APPLICATION:
+**STS EXAMPLE 1:** READ IN RAW STELLA DATA OR ANY DATA.CSV FILE:
+
+[Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
+
+**STS EXAMPLE 2:** READ IN RAW STELLA DATA OR ANY DATA.CSV FILE WITH WHITE CARD READINGS FIRST - WHITE CARD CORRECT DATA:
+
+[Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
+
+**STS EXAMPLE 3:** STELLA DATA SIMPLE APPLICATION:
 
 [CoLab_STELLA_brief_ver2_backyard_grass_shoreline_condensed.ipynb](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_brief_ver2_backyard_grass_shoreline_condensed.ipynb)
 
-**STS EXAMPLE 2:** PROCESS NASA LANDSAT DATA:
+**STS EXAMPLE 4:** PROCESS NASA LANDSAT DATA:
 
 [CoLab_VegIndex4_training_RobinsonPreserve_simple_Level2.ipynb](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-Landsat-Data-to-Calculate-NDVI-and-PNDVI/blob/main/CoLab_VegIndex4_training_RobinsonPreserve_simple_Level2.ipynb)
 
-**STS EXAMPLE 3:** PROCESS NASA PACE HYPERSPECTRAL OCEAN DATA:
+**STS EXAMPLE 5:** PROCESS NASA PACE HYPERSPECTRAL OCEAN DATA:
 This takes a while to load all HyperCoast[extra] python libraries and PACE dataset.  It takes ~5 minutes to run entire project to our ÔbreakÕ point that stops the code. Beyond the break point are experimental Red Tide (Karenia brevis) indicators that have not been tested. 
 
 [CoLab_ netCDF4_PACE.ipynb](https://github.com/Philliec459/STS-Software-to-Download-and-Process-NASA-PACE-Ocean-Ecosystem-hyperspectral-data/blob/main/CoLab_%20netCDF4_PACE.ipynb)
 
-**STS COMPREHENSIVE STELLA EXAMPLE 4:**  PROCESS AND PREDICT VEGETATIVE SPECIES FROM HOME DEPOT STELLA DATA:
+**STS COMPREHENSIVE STELLA EXAMPLE 6:**  PROCESS AND PREDICT VEGETATIVE SPECIES FROM HOME DEPOT STELLA DATA:
 This too takes a while to load python libraries and data. It takes ~2 minutes to run. Check out the interactive Altair displays at the end where you can select samples from the plot to view the plant species photos for each reading. 
 
 [CoLab_STELLA_brief_ver2_brief_to_Ed_Chiles_ver2.ipynb](https://github.com/Philliec459/STS-STELLA-Spectrometer-Readings-on-Various-Plant-Species-with-NDVI/blob/main/CoLab_STELLA_brief_ver2_brief_to_Ed_Chiles_ver2.ipynb)
