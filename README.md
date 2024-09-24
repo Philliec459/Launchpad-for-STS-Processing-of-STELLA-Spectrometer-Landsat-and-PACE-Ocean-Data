@@ -23,46 +23,46 @@ Our **first two examples below** only require the raw STELLA data file called da
 - If you do not have a data.csv file, an example data.csv file will be uploaded to Google CoLab so that you will have a data file to run. 
 - If you have another data.csv file, then just drag and drop that file onto CoLab, and it can run in **STS Example 1** Jupyter Notebooks.
 
-[Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
+>[Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
 
 **STS EXAMPLE 2:** READ IN RAW STELLA DATA AND MAKE WHITE-CARD CORRECTIONS TO THAT DATA:
 
 - If you do not have a data.csv file, an example data.csv file will be uploaded to Google CoLab so that you will have a data file to run. 
 - If you have another data.csv file, then just drag and drop that file onto CoLab, and it can run in **STS Example 2** Jupyter Notebooks.
 
-[Read in any STELLA data.csv file with Test Column added. White card reading should be in first row](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input_white_card_correct.ipynb)
+>[Read in any STELLA data.csv file with Test Column added. White card reading should be in first row](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input_white_card_correct.ipynb)
 
 **STS EXAMPLE 3:** STELLA DATA SIMPLE APPLICATION:
 
-[CoLab_STELLA_brief_ver2_backyard_grass_shoreline_condensed.ipynb](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_brief_ver2_backyard_grass_shoreline_condensed.ipynb)
+>[CoLab_STELLA_brief_ver2_backyard_grass_shoreline_condensed.ipynb](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_brief_ver2_backyard_grass_shoreline_condensed.ipynb)
 
 **STS EXAMPLE 4:** PROCESS NASA LANDSAT DATA:
 
-[CoLab_VegIndex4_training_RobinsonPreserve_simple_Level2.ipynb](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-Landsat-Data-to-Calculate-NDVI-and-PNDVI/blob/main/CoLab_VegIndex4_training_RobinsonPreserve_simple_Level2.ipynb)
+>[CoLab_VegIndex4_training_RobinsonPreserve_simple_Level2.ipynb](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-Landsat-Data-to-Calculate-NDVI-and-PNDVI/blob/main/CoLab_VegIndex4_training_RobinsonPreserve_simple_Level2.ipynb)
 
 **STS EXAMPLE 5:** PROCESS NASA PACE HYPERSPECTRAL OCEAN DATA:
 This takes a while to load all HyperCoast[extra] python libraries and PACE dataset.  It takes ~5 minutes to run entire project to our ÔbreakÕ point that stops the code. Beyond the break point are experimental Red Tide (Karenia brevis) indicators that have not been tested. 
 
-[CoLab_ netCDF4_PACE.ipynb](https://github.com/Philliec459/STS-Software-to-Download-and-Process-NASA-PACE-Ocean-Ecosystem-hyperspectral-data/blob/main/CoLab_%20netCDF4_PACE.ipynb)
+>[CoLab_ netCDF4_PACE.ipynb](https://github.com/Philliec459/STS-Software-to-Download-and-Process-NASA-PACE-Ocean-Ecosystem-hyperspectral-data/blob/main/CoLab_%20netCDF4_PACE.ipynb)
 
 **STS COMPREHENSIVE STELLA EXAMPLE 6:**  PROCESS AND PREDICT VEGETATIVE SPECIES FROM HOME DEPOT STELLA DATA:
 This too takes a while to load python libraries and data. It takes ~2 minutes to run. Check out the interactive Altair displays at the end where you can select samples from the plot to view the plant species photos for each reading. 
 
-[CoLab_STELLA_brief_ver2_brief_to_Ed_Chiles_ver2.ipynb](https://github.com/Philliec459/STS-STELLA-Spectrometer-Readings-on-Various-Plant-Species-with-NDVI/blob/main/CoLab_STELLA_brief_ver2_brief_to_Ed_Chiles_ver2.ipynb)
+>[CoLab_STELLA_brief_ver2_brief_to_Ed_Chiles_ver2.ipynb](https://github.com/Philliec459/STS-STELLA-Spectrometer-Readings-on-Various-Plant-Species-with-NDVI/blob/main/CoLab_STELLA_brief_ver2_brief_to_Ed_Chiles_ver2.ipynb)
 
 
 ## **ADDITIONAL RESOURCES:**
 **Understanding and Accessing Landsat Data:** Great video for an introduction to Landsat data.
 
-[Landsat Video](https://youtu.be/cRTPA1ART7g?si=3M-wvq0oyQTf1E8a)
+>[Landsat Video](https://youtu.be/cRTPA1ART7g?si=3M-wvq0oyQTf1E8a)
 
 **EARTH EXPLORER:** If you need to setup an Earth Explorer account to download PACE or Landsat data, then please click on the following link:
 
-[Earth Explorer login](https://ers.cr.usgs.gov/login?RET_ADDR=https%3A%2F%2Fearthexplorer.usgs.gov%2F)
+>[Earth Explorer login](https://ers.cr.usgs.gov/login?RET_ADDR=https%3A%2F%2Fearthexplorer.usgs.gov%2F)
 
 **GOOGLE ACCOUNT:** You will need to log into your Google Account to login. If you do not have one, then go to this link below: 
 
-[Google Account](https://support.google.com/accounts/answer/27441?hl=en)
+>[Google Account](https://support.google.com/accounts/answer/27441?hl=en)
 
 We have not tested this link and are not aware of any costs for the basic account.
 
