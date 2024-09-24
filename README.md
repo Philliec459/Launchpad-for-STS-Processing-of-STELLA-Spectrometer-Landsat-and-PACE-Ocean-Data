@@ -13,6 +13,11 @@
 ## **STELLA, Landsat and PACE Ocean Data Jupyter Notebooks:**
 We have 4 CoLab-ready Jupyter Notebooks in GitHub to process NASA STELLA, Landsat and PACE Ocean data. Just click on the hyperlinks below for each notebook example. 
 
+Our first two examples below only require the raw STELLA data file called data.csv. Your white card readings should be the fist readings in this file. You should also add one more column to this file called **Test**. In the **Test** column, you should label each reading that you made, where all readings from the same test subject should have identical names. Please see example below:
+
+**data.csv**
+![image](data.csv.png)
+
 **STS EXAMPLE 1:** READ IN RAW STELLA DATA OR ANY DATA.CSV FILE:
 
 [Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
