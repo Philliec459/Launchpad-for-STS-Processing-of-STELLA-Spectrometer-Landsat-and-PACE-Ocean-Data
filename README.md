@@ -13,18 +13,19 @@
 ## **STELLA, Landsat and PACE Ocean Data Jupyter Notebooks:**
 We have 4 CoLab-ready Jupyter Notebooks in GitHub to process NASA STELLA, Landsat and PACE Ocean data. Just click on the hyperlinks below for each notebook example. 
 
-Our first two examples below only require the raw STELLA data file called data.csv. Your white card readings should be the fist readings in this file. You should also add one more column to this file called **Test**. In the **Test** column, you should label each reading that you made, where all readings from the same test subject should have identical names. Please see example below:
+Our **first two examples below** only require the raw STELLA data file called data.csv. Your white card readings should be the fist readings in this file. You should also add one more column to this file called **Test**. In the **Test** column, you should label each reading that was made, where all readings from the same test subject should have identical names. Please see example below:
 
-**data.csv**
+*data.csv*
 ![image](data.csv.png)
 
-**STS EXAMPLE 1:** READ IN RAW STELLA DATA OR ANY DATA.CSV FILE:
+**STS EXAMPLE 1:** READ IN ANY STELLA data.csv FILE:
+If you do not have a data.csv file, an example data.csv file is uploaded to Google CoLab so that you will have a data file. However, if you have another data.csv file, then just drag and drop that file into CoLab and it can run in the Example 1 and 2 Jupyter Notebooks.
 
 [Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
 
 **STS EXAMPLE 2:** READ IN RAW STELLA DATA OR ANY DATA.CSV FILE WITH WHITE CARD READINGS FIRST, THEN WHITE CARD CORRECT DATA:
 
-[Read in any STELLA data.csv file with Test Column added, white card reading in first row](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input_white_card_correct.ipynb)
+[Read in any STELLA data.csv file with Test Column added. White card reading should be in first row](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input_white_card_correct.ipynb)
 
 **STS EXAMPLE 3:** STELLA DATA SIMPLE APPLICATION:
 
