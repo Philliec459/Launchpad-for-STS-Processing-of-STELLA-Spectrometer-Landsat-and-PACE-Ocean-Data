@@ -15,19 +15,19 @@ We have 4 CoLab-ready Jupyter Notebooks in GitHub to process NASA STELLA, Landsa
 
 Our **first two examples below** only require the raw STELLA data file called data.csv. Your white card readings should be the fist readings in this file. You should also add one more column to this file called **Test**. In the **Test** column, you should label each reading that was made, where all readings from the same test subject should have identical names. Please see example below:
 
-*data.csv*
+*data.xlsx*
 ![image](data.csv.png)
 
-**STS EXAMPLE 1:** READ IN ANY STELLA data.csv FILE:
+**STS EXAMPLE 1:** READ IN ANY STELLA data.xlsx FILE:
 
-- If you do not have a data.csv file, an example data.csv file will be uploaded to Google CoLab so that you will have a data file to run. 
+- If you do not have a data.xlsx file, an example data.xlsx file will be uploaded to Google CoLab so that you will have a data file to run. 
 - If you have another data.csv file, then just drag and drop that file onto CoLab, and it can run in **STS Example 1** Jupyter Notebooks.
 
 >[Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
 
 **STS EXAMPLE 2:** READ IN RAW STELLA DATA AND MAKE WHITE-CARD CORRECTIONS TO THAT DATA:
 
-- If you do not have a data.csv file, an example data.csv file will be uploaded to Google CoLab so that you will have a data file to run. 
+- If you do not have a data.xlsx file, an example data.xlsx file will be uploaded to Google CoLab so that you will have a data file to run. 
 - If you have another data.csv file, then just drag and drop that file onto CoLab, and it can run in **STS Example 2** Jupyter Notebooks.
 
 >[Read in any STELLA data.csv file with Test Column added. White card reading should be in first row](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input_white_card_correct.ipynb)
