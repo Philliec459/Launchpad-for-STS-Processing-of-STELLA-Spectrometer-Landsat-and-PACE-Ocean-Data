@@ -23,14 +23,14 @@ Our **first two examples below** only require the raw STELLA data file called da
 - If you do not have a data.xlsx file, an example data.xlsx file will be uploaded to Google CoLab so that you will have a data file to run. 
 - If you have another data.xlsx file, then just drag and drop that file onto CoLab, and it can run in **STS Example 1** Jupyter Notebooks.
 
->[Read in any STELLA data.csv file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
+>[Read in any STELLA data.xlsx file with Test Column added](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input.ipynb)
 
 **STS EXAMPLE 2:** READ IN RAW STELLA DATA AND MAKE WHITE-CARD CORRECTIONS TO THAT DATA:
 
 - If you do not have a data.xlsx file, an example data.xlsx file will be uploaded to Google CoLab so that you will have a data file to run. 
 - If you have another data.xlsx file, then just drag and drop that file onto CoLab, and it can run in **STS Example 2** Jupyter Notebooks.
 
->[Read in any STELLA data.csv file with Test Column added. White card reading should be in first row](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input_white_card_correct.ipynb)
+>[Read in any STELLA data.xlsx file with Test Column added. White card reading should be in first row](https://github.com/Philliec459/Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer-for-Eric/blob/main/CoLab_STELLA_raw_data_input_white_card_correct.ipynb)
 
 **STS EXAMPLE 3:** STELLA DATA SIMPLE APPLICATION:
 
